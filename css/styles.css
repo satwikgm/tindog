@@ -1,0 +1,129 @@
+/*  TAGS  */
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-weight: 400;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+p {
+  color: grey;
+}
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-weight: bolder;
+  line-height: 65px;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+/* ********************************************************************************* */
+
+/* ID */
+
+
+#title {
+  background-color: #ff4c68;
+}
+
+#titles {
+  color: #fff;
+  font-weight: 600;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+#testimonials img {
+  height: 30%;
+  width: 30%;
+  border-radius: 100%;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+}
+
+#press img {
+  width: 15%;
+  margin: 40px;
+}
+
+#carouselExampleControls
+{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+#pricing
+{
+  padding: 100px;
+  background-color: pink;
+}
+
+#cta
+{
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: "Montserrat-Bold";
+  color: white;
+  padding: 7% 15%;
+}
+
+
+/* ******************************************************************************** */
+
+/* CLASSES */
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar-brand {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.row {
+  padding-top: 4.5rem;
+}
+
+.down {
+  margin: 5% 2% 0% 3%;
+}
+
+.tit-img {
+  width: 50%;
+  margin-left: 180px;
+  transform: rotate(15deg);
+}
+
+
+.feature-box {
+  text-align: center;
+}
+
+.feature-box h3 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.priceh
+{
+  text-align: center;
+}
+
